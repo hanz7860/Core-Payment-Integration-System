@@ -1,1 +1,1 @@
-# Core-Payment-Integration-System
+# Designed and implemented a scalable, secure, and flexible centralized payment system to support an e-commerce platform's checkout and transaction flow. The system processes over 1 million transactions daily, enabling integration with multiple Payment Service Providers (PSPs) like Stripe, PayPal, and Trustly, and supports Payment Methods such as Cards and APMs (Alternate Payment Methods).
